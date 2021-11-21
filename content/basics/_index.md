@@ -1,6 +1,6 @@
 +++
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b>1. </b>"
 title = "Basics"
 weight = 5
 +++

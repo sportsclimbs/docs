@@ -1,11 +1,11 @@
 +++
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b>2. </b>"
 title = "To Do"
 weight = 5
 +++
 
-### Chapter 1
+### Chapter 2
 
 # The To Do list
 

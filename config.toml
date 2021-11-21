@@ -7,3 +7,6 @@ theme = "relearn"
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[params]
+themeVariant = "sportclimbs"

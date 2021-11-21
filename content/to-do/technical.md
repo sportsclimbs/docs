@@ -6,9 +6,9 @@ draft: false
 
 Technical aspects of the website that could be added to the site
 
-1. A search function using Algolia, Lunr or ...?
-2. [Configure](https://mcshelby.github.io/hugo-theme-relearn/basics/configuration/) this docs site better
-3. A CMS (Content Management System)
+1. A CMS (Content Management System)
+2. A search function using Algolia, Lunr or ...?
+3. [Configure](https://mcshelby.github.io/hugo-theme-relearn/basics/configuration/) this docs site better
 4. Adding class names for the content section at the page level. Use this instead of `columns: true` in the front matter. Maybe `contentclass: columns topo` for instance.
 5. Shortcode for columns ??? See how this is done for [Hugo Book theme](https://hugo-book-demo.netlify.app/docs/shortcodes/columns/)
 6. Maps: 
@@ -19,7 +19,9 @@ Technical aspects of the website that could be added to the site
 9.  Some subtle animations for page loads
 10. top menu colour coded to identify which region is the current region.
 11. Dropdown menu items from the top menu for faster navigation.
-12. Add a page count: The site currently has x pages including of which are y topos.
+12. Change updated to use git info, so that any edits will count rather than just new pages.
+13. Add a page count: The site currently has x pages including of which are y topos.
+14. Comments section each topo page. This could be a good way to get extra info for the topo pages.
 
 
 ## Images
@@ -31,6 +33,8 @@ These are:
 1. Git LFS. This is an extra piece of software used in the Git workflow.
 2. Netlify Large Files helps keep image out of the repo, instead using pointer code in the web site to where the images are (on Netlify) The bandwidth limit for the free tier is 100gb per month which is the same as the free web hosting we are using. There is also a limit on the number of *image transformations* per month too.
 3. Cloudinary is an alternative to Netlify Large File but the bandwidth is limited to 40gb per month for the free tier.
+
+Currently most images are served directly from the web site. This is fine however if the images are changed each version will be saved in the Git and tend to bloat the repository. We also now have a Cloudinary account and some images are saved there instead. Although the bandwidth limitation is 40gb per month this is in addition to the Netlify limit of 100gb per month.
 
 ## Progressive Web Apps (PWA's)
 
