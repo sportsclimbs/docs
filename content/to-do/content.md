@@ -2,6 +2,7 @@
 title: "Content"
 date: 2021-11-17T09:56:45Z
 draft: false
+weight: 20
 ---
 
 Some ideas for places to be added.
@@ -33,7 +34,9 @@ Some ideas for places to be added.
 
 Other major areas not covered include Devon, Portland/Dorset, Scotish regions. Frogsmouth Quarry.
 
-## Video crag intros
+## Video guides
+
+**UPDATE:** Added video guides to Darlton 2, Smalldale, Horseshoe and Cawdor Quarry.
 
 A video introduction to a crag is a great way to give someone a feel about a place before they visit. Such videos might typically contain:
 
@@ -43,3 +46,7 @@ A video introduction to a crag is a great way to give someone a feel about a pla
 - chat with climbers there about their favourite routes and what they think of the place and why they like it
 
 Although video require high bandwidth if hosted on Youtube or Vimeo such bandwidth would be free. This would set sportclimbs apart from other web sites and might provide a strong pull to our site. Probably need a decent quality microphone and eloquent speaker with a good voice. Narration could be added in afterwards.
+
+Here's an example of a video that some guys did for Cawdor Quarry:
+
+{{< youtube "GYHHVWYaRzM" >}}

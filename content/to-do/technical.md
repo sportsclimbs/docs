@@ -2,6 +2,7 @@
 title: "Technical"
 date: 2021-11-17T09:53:46Z
 draft: false
+weight: 30
 ---
 
 Technical aspects of the website that could be added to the site
@@ -17,7 +18,7 @@ Technical aspects of the website that could be added to the site
 7. A logo for the website.
 8. icons for the footer (RSS, Contact, Facebook, Instagram etc.)
 9.  Some subtle animations for page loads
-10. top menu colour coded to identify which region is the current region.
+10. top menu colour coded to identify which region is the current region. [x]
 11. Dropdown menu items from the top menu for faster navigation.
 12. Change updated to use git info, so that any edits will count rather than just new pages.
 13. Add a page count: The site currently has x pages including of which are y topos.

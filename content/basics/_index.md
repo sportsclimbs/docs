@@ -2,7 +2,7 @@
 chapter = true
 pre = "<b>1. </b>"
 title = "Basics"
-weight = 5
+weight = 10
 +++
 
 ### Chapter 1
