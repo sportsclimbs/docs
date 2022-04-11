@@ -49,3 +49,30 @@ It works by providing a user friendly interface to edit the website files on [Gi
 [1]: https://netlify.com/
 [2]: https://gohugo.io/
 [3]: https://github.com/
+
+### Uploadcare
+
+This online service serves images that are automatically sized to fit a user-agents screen size. 
+
+The [free plan](https://app.uploadcare.com/accounts/settings/billing/) includes:
+
+- 3000 uploads per month
+- 3gb of storage in total
+- max file size of 500mb
+- 30gb of bandwidth per month
+- unlimited image transformations
+
+#### Useful links
+
+- [Instructions on how to use](https://uploadcare.com/docs/delivery/adaptive-delivery/#adaptive-delivery)
+
+
+```mermaid
+flowchart TD
+l((local)) --> g
+u((Uploadcare)) --> n
+gf((Fonts)) --> n
+cms((CMS)) --> n
+g --> cms
+g{GitHub}--> n((Netlify))
+```
