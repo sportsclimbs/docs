@@ -30,3 +30,9 @@ markers:
 ```
 
 With a list of markers only the last one will display it's name. In the above example the marker will display *Trefor*. The other markers need to be clicked on first.
+
+### Getting the coordinates
+
+You can get coordinates from [Open Street Map](https://openstreetmap.org/). Find the point you want on the map and click with the right mouse button. From the flyout menu click *show address*. The coordinates appear in the left hand margin.
+
+You can also convert [Ordinance Survey](https://osmaps.ordnancesurvey.co.uk/) map coordinates into latitude and longitude coordinates using an [online conversion tool](http://www.nearby.org.uk/coord.cgi).

@@ -5,12 +5,6 @@ draft: false
 weight: 10000
 ---
 
----
-title: "Todo"
-date: 2021-11-04T17:39:45Z
-draft: true
-placeholder: false
----
 
 ## To Do's
 
